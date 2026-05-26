@@ -1,0 +1,10 @@
+{
+  "id": "kav-command-center",
+  "name": "Kav Command Center",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Painel central do dia-a-dia do canal: pipeline editorial, parcerias, ideias, tarefas.",
+  "author": "ViktorKav",
+  "authorUrl": "https://youtube.com/@viktorkav",
+  "isDesktopOnly": true
+}
